@@ -1,0 +1,8 @@
+C:\Projects\CITest\BankTests\bin\Debug\BankTests.dll
+C:\Projects\CITest\BankTests\bin\Debug\BankTests.pdb
+C:\Projects\CITest\BankTests\bin\Debug\Bank.exe
+C:\Projects\CITest\BankTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\CITest\BankTests\bin\Debug\Bank.pdb
+C:\Projects\CITest\BankTests\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+C:\Projects\CITest\BankTests\obj\Debug\BankTests.dll
+C:\Projects\CITest\BankTests\obj\Debug\BankTests.pdb

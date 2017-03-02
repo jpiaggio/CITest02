@@ -1,0 +1,6 @@
+C:\Projects\CITest\Bank\bin\Debug\Bank.exe.config
+C:\Projects\CITest\Bank\bin\Debug\Bank.exe
+C:\Projects\CITest\Bank\bin\Debug\Bank.pdb
+C:\Projects\CITest\Bank\obj\Debug\Bank.exe
+C:\Projects\CITest\Bank\obj\Debug\Bank.pdb
+C:\Projects\CITest\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
