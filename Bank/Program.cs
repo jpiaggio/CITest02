@@ -14,6 +14,7 @@ namespace BankAccountNS
         private string m_customerName;
 
         private double m_balance;
+        private double mm;
 
         private bool m_frozen = false;
 
